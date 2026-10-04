@@ -1,0 +1,9 @@
+{"article": 1, "round": "r3-diff",
+ "sentences": [
+  {"s": "S01", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S06", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "EX", "evidence": "ok", "context": "ok", "rights": "ok"}
+ ],
+ "overall": [],
+ "suggestions": [],
+ "ng_count": 0}
