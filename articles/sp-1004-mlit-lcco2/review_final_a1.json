@@ -1,0 +1,122 @@
+{
+ "article": 1,
+ "round": "final",
+ "sentences": [
+  {
+   "s": "S01",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S02",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S03",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S04",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S05",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S06",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S07",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S08",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S09",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S10",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S11",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S12",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S13",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S14",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S15",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S16",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "S17",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  },
+  {
+   "s": "EX",
+   "evidence": "ok",
+   "context": "ok",
+   "rights": "ok"
+  }
+ ],
+ "overall": [],
+ "suggestions": [
+  {
+   "issue": "題（S01）は「10月5日に検討会」とだけあり、2025年度から続く検討会の第8回会合であることが題だけでは分からない（press の題は「第８回」を明示）。本文 S03 で補われており誤りではない。",
+   "fix": "国交省、建築物のライフサイクルカーボン評価で10月5日に第8回検討会。大規模事務所の届出制度の2028年度開始へ算定ルールなどを議論"
+  }
+ ],
+ "ng_count": 0
+}

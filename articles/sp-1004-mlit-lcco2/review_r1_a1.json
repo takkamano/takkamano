@@ -1,0 +1,29 @@
+{"article": 1, "round": "r1",
+ "sentences": [
+  {"s": "S01", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S02", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S03", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S04", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S05", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S06", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S07", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S08", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S09", "evidence": "ng", "context": "ok", "rights": "ok", "loc": "kakugi P11",
+   "quote": "国の定めるルールに従って建築材料等の製造等に係る炭素排出量原単位を算定したときは、ルールに従ったものである旨を建築材料等に表示できることを位置づけ。",
+   "issue": "出典のこの項目には主語がなく、誰が算定・表示するかは書かれていない。記事は「建材などの製造事業者は」と主語を足しており、表示できる者を製造事業者に限るように読める（建築材料等製造等事業者が出てくるのは別項目 P7 の責務の規定）。また、原単位が建材などの製造に関わるものである点も落ちている。",
+   "fix": "国のルールに沿って建材などの製造に関わる炭素排出量原単位を算定した場合は、その旨を建材などに表示できる。"},
+  {"s": "S10", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S11", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S12", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S13", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S14", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S15", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S16", "evidence": "ok", "context": "ok", "rights": "ok"},
+  {"s": "S17", "evidence": "ok", "context": "ok", "rights": "ok"}
+ ],
+ "overall": [],
+ "suggestions": [
+  {"s": "S01", "suggestion": "題の「10月5日に検討会」は、2025年から続く検討会の第8回会合。「10月5日に第8回検討会」とすると、新しく設けた会議と受け取られる余地がさらに減る。"},
+  {"s": "S15", "suggestion": "「約4割を建築分野が占める」は kakugi P4 と連続12字一致（数値と分野名と動詞だけの事実の一致のため ok と判定）。気になるなら「建築分野が約4割を占める」と語順を入れ替える。"}
+ ],
+ "ng_count": 1}
