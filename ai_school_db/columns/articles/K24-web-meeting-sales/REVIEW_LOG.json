@@ -1,0 +1,15 @@
+{
+  "article": "K24",
+  "environment": "クラウドセッション（2026-10-11）。col_article_check.py・make_docx.py・REVIEW.md・round1 の記事と指摘はこの環境になく、主要項目を再現した簡易版で代えた",
+  "rounds": [
+    {"round": "品質評価（読者役3人）", "file": "quality_1.json", "ng": 8, "suggest": 14, "note": "round1 と比べられず単独評価。P1 が読みやすさ・独自の価値に3点"},
+    {"round": "監修者A（正確さ）", "file": "review_2r_A.json", "ng": 9, "suggest": 6},
+    {"round": "監修者B（日本語・法令）", "file": "review_2r_B.json", "ng": 16, "suggest": 11},
+    {"round": "差分・最終確認", "file": "review_2r_D.json / review_final_2r.json", "ng": 3, "min_score": 4},
+    {"round": "スクールDBの横断データ追加後の最終確認", "file": "review_final_3r.json", "ng": 2, "min_score": 4, "note": "ng 2件は監修者の fix どおりに直し、機械点検（簡易版）で E 0 を確認"}
+  ],
+  "not_adopted": [
+    "クーリング・オフの発信主義（期限内に出せば届くのが後でもよい）の追記：src に根拠の記載がないため",
+    "DB の日付を講座ごとの確認日（10月4日など）にする案：マニュアル4-4の書き方（2026年10月10日時点）に合わせた"
+  ]
+}
