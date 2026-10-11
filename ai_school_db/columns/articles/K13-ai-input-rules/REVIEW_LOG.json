@@ -1,0 +1,12 @@
+{
+  "article": "K13",
+  "environment": "クラウドセッション（2026-10-11）。col_article_check.py・make_docx.py・REVIEW.md・round1 はこの環境になく、簡易版で代えた",
+  "rounds": [
+    {"round": "品質評価（読者役3人）", "file": "quality_1.json", "ng": 12, "suggest": 5},
+    {"round": "監修者A（正確さ）", "file": "review_2r_A.json", "ng": 6, "suggest": 8},
+    {"round": "監修者B（日本語・法令・講座の紹介）", "file": "review_2r_B.json", "ng": 17, "suggest": 10},
+    {"round": "差分・最終確認", "file": "review_2r_D.json / review_final_2r.json", "ng": 4, "min_score": 4, "note": "ng 4件は監修者の fix どおりに直し、機械点検（簡易版）で E 0 を確認"}
+  ],
+  "not_adopted": "REVISION_1.md を参照",
+  "open_questions": ["ChatGPT の行（OpenAI のページが403で取得不可）", "JUAS 報告書の利用条件（非営利の使用）", "紹介3講座のアフィリエイトの有無・要注意一覧", "関連コラムの題と plans_final.json の照合"]
+}
