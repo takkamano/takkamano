@@ -1,0 +1,215 @@
+https://support.microsoft.com/ja-jp/privacy/microsoft-copilot/overview
+取得日：2026-10-11
+個人向けの Microsoft Copilot: データ、プライバシー、責任ある AI | Microsoft Support
+メイン コンテンツへスキップ
+Microsoft
+サポート
+サポート
+サポート
+ホーム
+Microsoft 365
+Office
+製品
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+さらに表示...
+デバイス
+Surface
+PC アクセサリ
+Xbox
+PC ゲーム
+HoloLens
+Surface Hub
+ハードウェアの保証
+アカウントと請求
+リソース
+コミュニティ フォーラム
+Microsoft 365 管理者
+開発者
+教育
+サポート詐欺を報告する
+製品の安全性
+表示数を増やす
+Microsoft 365 を購入
+すべての Microsoft 製品
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+セール
+法人向け
+サポート
+ソフトウェア
+ソフトウェア
+Windows アプリ
+OneDrive
+Outlook
+Skype から Teams への移行
+OneNote
+Microsoft Teams
+PC とデバイス
+PC とデバイス
+XBOX を購入する
+アクセサリ
+エンタメ
+エンタメ
+XBOX Game Pass Ultimate
+XBOX とゲーム
+PC ゲーム
+法人向け
+法人向け
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+一般法人向け Microsoft 365
+Microsoft Power Platform
+Windows 365
+デジタル主権
+開発者 & IT
+開発者 & IT
+Microsoft 開発者
+Microsoft Learn
+AI マーケットプレース アプリのサポート
+Microsoft Tech Community
+Microsoft Marketplace
+ソフトウェア会社
+Visual Studio
+その他
+その他
+Microsoft Rewards
+無料ダウンロード & セキュリティ
+教育
+プリペイド カード
+ライセンス
+サイトマップの表示
+検索
+ヘルプを検索する
+一致するものがありません
+キャンセル
+サインイン
+Microsoft アカウントでサインイン
+サインインまたはアカウントを作成してください。
+こんにちは、
+別のアカウントを選択してください。
+複数のアカウントがあります
+サインインに使用するアカウントを選択してください。
+関連トピック
+関連トピック
+×
+Microsoft Copilot のデータとプライバシー (個人向け)
+概要
+プライバシーコントロール
+アクティビティの履歴
+フィードバックの提供
+若者のための Copilot
+透過性に関するメモ
+個人向けの Microsoft Copilot: データ、プライバシー、責任ある AI
+重要
+Web、デスクトップ、モバイル デバイス用の Microsoft Copilot アプリの更新バージョンは、2026 年 8 月 18 日より利用可能です。 Microsoft Copilot アプリの新しいバージョンに更新またはダウンロードしていない場合、この記事は適用されません。 代わりに、「Microsoft Copilot のプライバシーに関する FAQ」を参照してください。
+注
+この記事は、Web、デスクトップ、またはモバイルで Microsoft Copilot アプリを使用する際に、個人用メール アドレスなどの Microsoft アカウントでサインインする場合にのみ適用されます。 Microsoft 365 アプリで Copilot を使用している場合は、「 家庭向け Microsoft 365 アプリの Copilot: データとプライバシー」を参照してください。
+この記事は、職場、学校、または組織 (Microsoft Entra) アカウントで Microsoft Copilot アプリにサインインする場合、または Microsoft 365 アプリで Copilot を使用する場合には適用されません。 詳細については、「職場または学校で Microsoft Copilot を使用する場合のデータ保護」を参照してください。
+Microsoft Copilot は、アイデアから完成した作業まで、すべてを 1 か所で行うのに役立ちます。 Copilot は Word、Excel、PowerPoint、Outlook、Teams などに統合されており、使用するファイルと情報を 1 つのエクスペリエンスにまとめます。 Copilot は、洗練されたドキュメント、プレゼンテーション、スプレッドシートの作成、メールの下書き、1 日の整理、作業中の作業に基づいた回答を得るのに役立ちます。 Cowork を使用すると、Copilot はより大きな複数ステップのタスクを支援し、完了した To Do を提供することもできます。 また、さまざまな種類の作業に対応する主要な AI モデルから選択することもできます。 特定の機能はサブスクリプションによって異なります。
+個人用 Microsoft アカウントを使用して Copilot にサインインする場合、Copilot の使用には Microsoft サービス規約 と Copilot の使用条件が適用されます。 Microsoft が従業員の個人データをどのように使用するかについては、「 Microsoft プライバシー ステートメント」をご覧ください。
+Copilot がデータを使用し、プライバシーを保護する方法の詳細については、次の記事を参照してください:
+プライバシー コントロールと選択
+アクティビティの履歴
+若者のための Copilot
+透過性に関するメモ
+関連記事
+Microsoft の責任ある AI
+この情報は役に立ちましたか?
+はい
+いいえ
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+フィードバックをいただき、ありがとうございます。
+×
+最新情報
+Surface Laptop Ultra
+Surface Pro
+Surface Laptop
+Copilot を詳しく見る
+Windows での AI
+Microsoft 製品を見る
+Windows 11 アプリ
+Microsoft Store
+アカウント プロファイル
+ダウンロード センター
+Microsoft Store サポート
+返品・返金
+ご注文履歴
+Microsoft Store のお約束
+教育
+Microsoft Education
+教育機関向けデバイス
+Microsoft Teams for Education
+Microsoft 365 Education
+Office Education
+教育者向けトレーニングおよび開発
+学生および保護者向けキャンペーン
+学生向け Azure
+ビジネス
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft Advertising
+Microsoft Copilot
+Microsoft Teams
+開発者 & IT
+Microsoft 開発者
+Microsoft Learn
+AI マーケットプレース アプリのサポート
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+ソフトウェア会社
+Visual Studio
+会社
+採用情報
+会社のニュース
+マイクロソフトにおけるプライバシー
+投資家
+アクセシビリティ
+日本語 (日本)
+プライバシーに関する選択のオプトアウト アイコン
+プライバシーに関する選択
+コンシューマーの正常性のプライバシー
+Microsoft に問い合わせ
+プライバシー
+特定商取引法に基づく表示
+Cookie の管理
+使用条件
+商標
+広告について
+© Microsoft 2026

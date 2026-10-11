@@ -1,0 +1,275 @@
+https://support.microsoft.com/ja-jp/privacy/microsoft-copilot/privacy-controls
+取得日：2026-10-11
+個人向けの Microsoft Copilot: プライバシー コントロールと選択 | Microsoft Support
+メイン コンテンツへスキップ
+Microsoft
+サポート
+サポート
+サポート
+ホーム
+Microsoft 365
+Office
+製品
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+さらに表示...
+デバイス
+Surface
+PC アクセサリ
+Xbox
+PC ゲーム
+HoloLens
+Surface Hub
+ハードウェアの保証
+アカウントと請求
+リソース
+コミュニティ フォーラム
+Microsoft 365 管理者
+開発者
+教育
+サポート詐欺を報告する
+製品の安全性
+表示数を増やす
+Microsoft 365 を購入
+すべての Microsoft 製品
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+セール
+法人向け
+サポート
+ソフトウェア
+ソフトウェア
+Windows アプリ
+OneDrive
+Outlook
+Skype から Teams への移行
+OneNote
+Microsoft Teams
+PC とデバイス
+PC とデバイス
+XBOX を購入する
+アクセサリ
+エンタメ
+エンタメ
+XBOX Game Pass Ultimate
+XBOX とゲーム
+PC ゲーム
+法人向け
+法人向け
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+一般法人向け Microsoft 365
+Microsoft Power Platform
+Windows 365
+デジタル主権
+開発者 & IT
+開発者 & IT
+Microsoft 開発者
+Microsoft Learn
+AI マーケットプレース アプリのサポート
+Microsoft Tech Community
+Microsoft Marketplace
+ソフトウェア会社
+Visual Studio
+その他
+その他
+Microsoft Rewards
+無料ダウンロード & セキュリティ
+教育
+プリペイド カード
+ライセンス
+サイトマップの表示
+検索
+ヘルプを検索する
+一致するものがありません
+キャンセル
+サインイン
+Microsoft アカウントでサインイン
+サインインまたはアカウントを作成してください。
+こんにちは、
+別のアカウントを選択してください。
+複数のアカウントがあります
+サインインに使用するアカウントを選択してください。
+関連トピック
+関連トピック
+×
+Microsoft Copilot のデータとプライバシー (個人向け)
+概要
+プライバシーコントロール
+アクティビティの履歴
+フィードバックの提供
+若者のための Copilot
+透過性に関するメモ
+個人向けの Microsoft Copilot: プライバシー コントロールと選択
+重要
+Web、デスクトップ、モバイル デバイス用の Microsoft Copilot アプリの更新バージョンは、2026 年 8 月 18 日より利用可能です。 Microsoft Copilot アプリの新しいバージョンに更新またはダウンロードしていない場合、この記事は適用されません。 代わりに、「Microsoft Copilot のプライバシー コントロール」を参照してください。
+注
+この記事は、Web、デスクトップ、またはモバイルで Microsoft Copilot アプリを使用する際に、個人用メール アドレスなどの Microsoft アカウントでサインインする場合にのみ適用されます。 Microsoft 365 アプリで Copilot を使用している場合は、「 家庭向け Microsoft 365 アプリの Copilot: データとプライバシー」を参照してください。
+この記事は、職場、学校、または組織 (Microsoft Entra) アカウントで Microsoft Copilot アプリにサインインする場合、または Microsoft 365 アプリで Copilot を使用する場合には適用されません。 詳細については、「職場または学校で Microsoft Copilot を使用する場合のデータ保護」を参照してください。
+Microsoft Copilot では、データの使用方法を制御できます。 たとえば、次の領域の場合です。
+メモリ
+共有エクスペリエンス
+チャット履歴
+Web 検索
+パーソナライズされた広告
+Microsoft Edge からブラウザー データをインポートする
+プライバシー コントロールを確認し、いつでも選択を変更できます。
+メモリ
+Microsoft Copilot は、会話の重要な詳細と設定を記憶することで、カスタマイズされたエクスペリエンスを提供できます。 時間が経つにつれて、コミュニケーション スタイル、お気に入りのトピック、目標、定期的なタスクなどの有用な情報を思い出して、会話をより適切なものにするのに役立ちます。
+Copilot での個人用設定とメモリのしくみについて説明します。
+特定のメモリ、または Copilot によって保存されたすべてのメモリを削除するには:
+Microsoft Copilot を開き、Microsoft アカウントでサインインします。
+[ 設定] を開き、[ 個人用設定] を選択します。
+[保存されたメモリ] トグルの横にある [管理] を選択します。
+メモリの横にある 削除 アイコンを選択して、Copilot メモリから削除します。
+Copilot によって保存されたすべてのメモリを削除する場合は、[ すべてのメモリを削除 ] ボタンを選択します。
+Copilot がメモリを保存する機能をオフにするには:
+Microsoft Copilot を開き、Microsoft アカウントでサインインします。
+[ 設定] を開き、[ 個人用設定] を選択します。
+[ セーブ メモリー] トグルをオフにします。
+Copilot メモリをオフにしても、すでに保存されているメモリは自動的に削除されません。 すべてのメモリを削除する場合は、[すべてのメモリの管理>削除] に移動します。
+共有エクスペリエンス
+Microsoft アカウントを Bing、Edge、MSN などの他の製品で使用する場合、それらの製品のエクスペリエンスを使用して、Microsoft Copilot でより関連性の高いパーソナライズされたエクスペリエンスを提供できます。
+たとえば、Copilot は、既存の興味や趣味に関する情報や機会を発見するのに役立ちます。 同様に、Copilot チャットを使用して、Bing、Edge、MSN でのやり取りをカスタマイズできます。 たとえば、将来の休暇のアイデアについて Copilot とチャットする場合、Bing と MSN は今後の計画に合わせて調整されたコンテンツを表示できます。
+Copilot の共有エクスペリエンス機能をオフにするには:
+Microsoft Copilot を開き、Microsoft アカウントでサインインします。
+[ 設定] を開き、[ 個人用設定] を選択します。
+[One Shared Experience (共有エクスペリエンス)] トグルをオフにします。
+Edge で共有エクスペリエンス機能をオフにするには、「 カスタマイズされた広告とエクスペリエンスの Microsoft Edge 閲覧アクティビティ」を参照してください。
+Microsoft プライバシー ダッシュボードの設定を使用して、Bing と MSN 全体の共有エクスペリエンス機能に使用される関心の一部を管理できます。
+注
+共有エクスペリエンスの設定は、Copilot でパーソナライズされた広告を表示するかどうかを制御するものではありません。これは別途選択できます。 詳細については、この記事で後述する パーソナライズド広告 のセクションを参照してください。
+チャット履歴
+Microsoft Copilot は、Copilot との以前の会話を保持するため、いつでも再確認または続行できます。
+Copilot チャット履歴の仕組みの詳細をご覧ください。
+チャット履歴から個々の会話を削除するには:
+Microsoft Copilot を開き、Microsoft アカウントでサインインします。
+左側のナビゲーションの [チャット ] リストで、管理する会話を選択します。
+チャットの横にある以下を選択します ...[その他] を選択し、ドロップダウン メニューで [ 削除 ] を選択して、チャット履歴から会話を削除します。
+Copilot チャット履歴全体を削除するには、 プライバシー ダッシュボードで Copilot アクティビティ履歴を管理するを参照してください。
+Web 検索
+Copilot は、公開されている最新の情報を参照することで、Web を検索し、応答の品質を向上させることができます。 これにより、Copilot はより完全で最新かつ関連性の高い回答を提供できるようになります。
+Copilot での Web 検索のしくみについて説明します。
+Web 検索をオフにするには:
+Microsoft Copilot を開き、Microsoft アカウントでサインインします。
+[ 設定] を開き、[ 個人用設定] を選択します。
+Web 検索の切り替えをオフにします。
+パーソナライズされた広告
+Microsoft Copilot を使用していて、Microsoft 365 サブスクリプションをお持ちでない場合は、Copilot に広告が表示されることがあります。
+Copilot に表示される広告をパーソナライズするかどうかを制御するには:
+Microsoft Copilot を開き、Microsoft アカウントでサインインします。
+[ 設定] を開き、[ 個人用設定] を選択します。
+[ 広告の個人用設定を許可する ] トグルをオフにします。
+汎用広告は、現在の会話の最新のコンテンツに基づいて選択され、過去のチャット履歴は使用されません。 パーソナライズド広告では、チャット履歴、保存されたメモリ、共有を選択したその他の Microsoft データを使用して、時間の経過と共にユーザーの興味に合わせて広告やオファーを調整する場合があります。
+また、Microsoft プライバシー ダッシュボードで パーソナライズド広告の設定 を変更することで、すべての Microsoft サービスでパーソナライズド広告をオフにすることもできます。
+関心のある広告とオファーを表示する で、トグルをオフにします。
+注
+設定に関係なく、Copilot は 18 歳未満のユーザーにパーソナライズされた広告を表示しません。
+Microsoft Edge からブラウザー データをインポートする
+注
+現在、この設定は、Microsoft アカウントが米国に所在する個人のみが使用できます。
+この設定は、職場、学校、または組織 (Microsoft Entra) アカウントでサインインしている場合にも使用できます。
+Web コンテンツは、Copilot アプリで直接閲覧できます。 Microsoft Edge の閲覧データをインポートして、よりシームレスでパーソナライズされたエクスペリエンスを実現することもできます。 たとえば、Microsoft Edge からの Cookie、履歴、支払い情報、パスワード、自動入力データなどです。
+ブラウザー データをインポートするには:
+Microsoft Copilot を開き、Microsoft アカウントでサインインします。
+[ 設定] を開き、[ Web 閲覧] を選択します。
+[ ブラウザー データのインポート] を選択します。
+[ Microsoft Edge から閲覧データを取得する] トグルをオンにします。
+この情報は役に立ちましたか?
+はい
+いいえ
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+フィードバックをいただき、ありがとうございます。
+×
+最新情報
+Surface Laptop Ultra
+Surface Pro
+Surface Laptop
+Copilot を詳しく見る
+Windows での AI
+Microsoft 製品を見る
+Windows 11 アプリ
+Microsoft Store
+アカウント プロファイル
+ダウンロード センター
+Microsoft Store サポート
+返品・返金
+ご注文履歴
+Microsoft Store のお約束
+教育
+Microsoft Education
+教育機関向けデバイス
+Microsoft Teams for Education
+Microsoft 365 Education
+Office Education
+教育者向けトレーニングおよび開発
+学生および保護者向けキャンペーン
+学生向け Azure
+ビジネス
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft Advertising
+Microsoft Copilot
+Microsoft Teams
+開発者 & IT
+Microsoft 開発者
+Microsoft Learn
+AI マーケットプレース アプリのサポート
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+ソフトウェア会社
+Visual Studio
+会社
+採用情報
+会社のニュース
+マイクロソフトにおけるプライバシー
+投資家
+アクセシビリティ
+日本語 (日本)
+プライバシーに関する選択のオプトアウト アイコン
+プライバシーに関する選択
+コンシューマーの正常性のプライバシー
+Microsoft に問い合わせ
+プライバシー
+特定商取引法に基づく表示
+Cookie の管理
+使用条件
+商標
+広告について
+© Microsoft 2026

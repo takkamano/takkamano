@@ -1,0 +1,208 @@
+https://support.microsoft.com/ja-jp/privacy/data-protection-when-using-microsoft-365-copilot-chat-for-work-or-school
+取得日：2026-10-11
+職場または学校で Microsoft Copilot Chat を使用する場合のデータ保護 | Microsoft Support
+メイン コンテンツへスキップ
+Microsoft
+サポート
+サポート
+サポート
+ホーム
+Microsoft 365
+Office
+製品
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+さらに表示...
+デバイス
+Surface
+PC アクセサリ
+Xbox
+PC ゲーム
+HoloLens
+Surface Hub
+ハードウェアの保証
+アカウントと請求
+リソース
+コミュニティ フォーラム
+Microsoft 365 管理者
+開発者
+教育
+サポート詐欺を報告する
+製品の安全性
+表示数を増やす
+Microsoft 365 を購入
+すべての Microsoft 製品
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+セール
+法人向け
+サポート
+ソフトウェア
+ソフトウェア
+Windows アプリ
+OneDrive
+Outlook
+Skype から Teams への移行
+OneNote
+Microsoft Teams
+PC とデバイス
+PC とデバイス
+XBOX を購入する
+アクセサリ
+エンタメ
+エンタメ
+XBOX Game Pass Ultimate
+XBOX とゲーム
+PC ゲーム
+法人向け
+法人向け
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+一般法人向け Microsoft 365
+Microsoft Power Platform
+Windows 365
+デジタル主権
+開発者 & IT
+開発者 & IT
+Microsoft 開発者
+Microsoft Learn
+AI マーケットプレース アプリのサポート
+Microsoft Tech Community
+Microsoft Marketplace
+ソフトウェア会社
+Visual Studio
+その他
+その他
+Microsoft Rewards
+無料ダウンロード & セキュリティ
+教育
+プリペイド カード
+ライセンス
+サイトマップの表示
+検索
+ヘルプを検索する
+一致するものがありません
+キャンセル
+サインイン
+Microsoft アカウントでサインイン
+サインインまたはアカウントを作成してください。
+こんにちは、
+別のアカウントを選択してください。
+複数のアカウントがあります
+サインインに使用するアカウントを選択してください。
+職場または学校で Microsoft Copilot Chat を使用する場合のデータ保護
+注
+Microsoft 365 Copilot Chat の名前は Microsoft Copilot Chat になりました。 Copilot Chat を使用する場合、データ保護に変更はありません。
+Microsoft Copilot Chat は、AI 搭載の Web 用チャットを提供します。 業界の分析情報の調査、データの分析、インスピレーションの検索のいずれを行う場合でも、Copilot Chat を使用すると、より優れた回答、より高い効率性、創造性を発揮するための新しい方法にアクセスできます。
+データを保護するために、職場または学校アカウントでサインインすると、Copilot Chat はエンタープライズ データ保護を提供します。
+Copilot Chat について知っておくべき重要な点を次に示します。
+Copilot Chat では、認証に職場または学校アカウントが使用され、そのアカウントでサインインすると、エンタープライズ データ保護が自動的に提供されます。
+プロンプトに追加した作業コンテンツを含むプロンプトと Copilot の応答は、基礎モデルのトレーニングには使用されません。
+Copilot Chat のチャット データは、チャット セッション中に暗号化されます。
+プロンプト、プロンプトによってトリガーされた Bing 検索クエリ、Copilot Chat での応答がログに記録されます。 IT 管理者は、Microsoft の検索ツールと監査ツールを使用して、このログに記録された情報を表示できます。
+Copilot Chat は、暴力、生々しいコンテンツ、憎悪に満ちた言葉など、有害なコンテンツからユーザーを保護するのに役立ちます。
+Copilot Chat のプロンプトによってトリガーされる Bing 検索クエリは、プロンプトに基づいて通知されたいくつかの単語で構成されます。 これらのクエリは、アカウントまたは organization にリンクされていません。
+Bing 検索サービスは Microsoft 365 とは別に動作し、プロンプトや応答に使用されるものとは異なるデータ処理方法を採用しています。 これらのデータ処理の方針は、各ユーザーと Microsoft との間で締結 される Microsoft サービス規約 と、 Microsoft プライバシーに関する声明によってカバーされます。 これは、Microsoft が独立したデータ コントローラーとして機能し、適用されるすべての法規およびコントローラーに対する義務に準拠する責任を負うことを意味します。 このアプローチは、 Bing に依存する他のオプションの接続エクスペリエンスと一貫しています。
+さらに詳しい情報が必要な場合は、次の記事を参照してください。
+Microsoft Copilot Chatの概要
+Microsoft Copilot Chat: プライバシーと保護
+Microsoft Copilot および Microsoft Copilot Chat におけるエンタープライズ データ保護
+Microsoft 365 Copilot のデータ、プライバシー、セキュリティ
+この情報は役に立ちましたか?
+はい
+いいえ
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+フィードバックをいただき、ありがとうございます。
+×
+最新情報
+Surface Laptop Ultra
+Surface Pro
+Surface Laptop
+Copilot を詳しく見る
+Windows での AI
+Microsoft 製品を見る
+Windows 11 アプリ
+Microsoft Store
+アカウント プロファイル
+ダウンロード センター
+Microsoft Store サポート
+返品・返金
+ご注文履歴
+Microsoft Store のお約束
+教育
+Microsoft Education
+教育機関向けデバイス
+Microsoft Teams for Education
+Microsoft 365 Education
+Office Education
+教育者向けトレーニングおよび開発
+学生および保護者向けキャンペーン
+学生向け Azure
+ビジネス
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft Advertising
+Microsoft Copilot
+Microsoft Teams
+開発者 & IT
+Microsoft 開発者
+Microsoft Learn
+AI マーケットプレース アプリのサポート
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+ソフトウェア会社
+Visual Studio
+会社
+採用情報
+会社のニュース
+マイクロソフトにおけるプライバシー
+投資家
+アクセシビリティ
+日本語 (日本)
+プライバシーに関する選択のオプトアウト アイコン
+プライバシーに関する選択
+コンシューマーの正常性のプライバシー
+Microsoft に問い合わせ
+プライバシー
+特定商取引法に基づく表示
+Cookie の管理
+使用条件
+商標
+広告について
+© Microsoft 2026

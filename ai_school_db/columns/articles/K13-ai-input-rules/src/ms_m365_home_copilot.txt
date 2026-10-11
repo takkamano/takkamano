@@ -1,0 +1,219 @@
+https://support.microsoft.com/ja-jp/privacy/copilot-in-microsoft-365-apps-for-home-your-data-and-privacy
+取得日：2026-10-11
+自宅向け Microsoft 365 アプリの Copilot: データとプライバシー | Microsoft Support
+メイン コンテンツへスキップ
+Microsoft
+サポート
+サポート
+サポート
+ホーム
+Microsoft 365
+Office
+製品
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+さらに表示...
+デバイス
+Surface
+PC アクセサリ
+Xbox
+PC ゲーム
+HoloLens
+Surface Hub
+ハードウェアの保証
+アカウントと請求
+リソース
+コミュニティ フォーラム
+Microsoft 365 管理者
+開発者
+教育
+サポート詐欺を報告する
+製品の安全性
+表示数を増やす
+Microsoft 365 を購入
+すべての Microsoft 製品
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+セール
+法人向け
+サポート
+ソフトウェア
+ソフトウェア
+Windows アプリ
+OneDrive
+Outlook
+Skype から Teams への移行
+OneNote
+Microsoft Teams
+PC とデバイス
+PC とデバイス
+XBOX を購入する
+アクセサリ
+エンタメ
+エンタメ
+XBOX Game Pass Ultimate
+XBOX とゲーム
+PC ゲーム
+法人向け
+法人向け
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+一般法人向け Microsoft 365
+Microsoft Power Platform
+Windows 365
+デジタル主権
+開発者 & IT
+開発者 & IT
+Microsoft 開発者
+Microsoft Learn
+AI マーケットプレース アプリのサポート
+Microsoft Tech Community
+Microsoft Marketplace
+ソフトウェア会社
+Visual Studio
+その他
+その他
+Microsoft Rewards
+無料ダウンロード & セキュリティ
+教育
+プリペイド カード
+ライセンス
+サイトマップの表示
+検索
+ヘルプを検索する
+一致するものがありません
+キャンセル
+サインイン
+Microsoft アカウントでサインイン
+サインインまたはアカウントを作成してください。
+こんにちは、
+別のアカウントを選択してください。
+複数のアカウントがあります
+サインインに使用するアカウントを選択してください。
+自宅向け Microsoft 365 アプリの Copilot: データとプライバシー
+注
+この記事は、Microsoft 365 Personal、Family、Premium、Pro プランなど、家庭向け Microsoft 365 アプリで Microsoft 365 Personal を使用している場合にのみ適用されます。
+"自宅用" とは、Microsoft アカウントでサインインしている場合を意味します。 たとえば、個人用のメール アドレスなどです。
+詳細については、「 Copilot in Microsoft 365 サブスクリプションについてよく寄せられる質問」を参照してください。
+Microsoft Copilot アプリのプライバシーの詳細については、「個人向けの Microsoft Copilot: データ、プライバシー、責任ある AI」を参照してください。
+Copilot は、Microsoft 365 アプリでさまざまなタスクやアクティビティを支援するために設計された AI アシスタントです。 たとえば、Word、PowerPoint、Excel、Outlook、または OneNote の場合です。
+Microsoft 365 アプリの Copilot は、 Microsoft サービス契約の対象となります。 Microsoft が従業員の個人データをどのように使用するかについては、「 Microsoft プライバシー ステートメント」をご覧ください。
+データと Copilot
+"プロンプト" とは、Copilot にサポートを依頼する内容です。Copilot が提供する答えは "応答" です。「アクティビティ履歴」は、それらのプロンプトと応答の記録です。
+Copilot は、作業中のファイル内のコンテンツ、または確認を求めた別のファイルのコンテンツのみを使用します。 たとえば、Word 文書内の段落を書き直すよう Copilot に依頼する場合や、OneNote のノートから To Do リストを生成するよう Copilot に依頼する場合などが該当します。
+重要
+Microsoft 365 アプリで Copilot を使用する場合のプロンプト、応答、ファイル コンテンツは、基礎モデルのトレーニングには使用されません。
+お客様からのフィードバックを他の Microsoft 365 サービスや Microsoft 365 生産性アプリを改善するために使用するのと同様に、Microsoft 365 アプリの Copilot を改善するためにオプションのカスタマー フィードバックを使用する場合があります。 このフィードバックは、Copilot in Microsoft 365 Apps で使用される基礎モデルのトレーニングには使用されません。 詳細については、「Microsoft 365 アプリでの Microsoft Copilot に関するフィードバックの提供」を参照してください。
+Microsoft 365 の接続エクスペリエンスを使用して収集された個人データは、Microsoft 365 Copilot で使用されるものを含め、大規模言語モデル (LLM) のトレーニングには使用されません。
+一部のアプリでは、アプリを閉じて再度開いた後でもアクティビティ履歴を確認できます。 たとえば、Windows、Mac、モバイル デバイスの Word、Excel、PowerPoint の場合や、それらのアプリの Web バージョンを使用している場合です。 Copilot のアクティビティ履歴をエクスポートするには、 プライバシー ダッシュボードで Copilot アクティビティ履歴を管理するを参照してください。
+一部のアプリまたは特定の種類のデバイスでは、アプリを閉じて再度開いた後、Copilot にアクティビティ履歴が表示されません。 そのような場合は、アプリを開くたびに、Copilot で最初からやり直しすることになります。
+プライバシー設定と Copilot
+Microsoft 365 アプリを使用しているときに、 プライバシー設定 を選択できます。 Copilot 機能を使用できるかどうかは、次の 2 つの設定によって異なります:
+コンテンツを分析するエクスペリエンス
+すべてのコネクテッド エクスペリエンス
+これらの設定のいずれかをオフにすると、次のアプリで Copilot 機能を使用できなくなります。
+Excel
+OneNote
+Outlook
+PowerPoint
+Word
+これは、Windows、Mac、iOS、または Android デバイスでこれらのアプリの最新バージョンを実行している場合に適用されます。
+これらの設定により、使用したい他の機能もオフになります。 詳細については、「 Microsoft 365 の接続エクスペリエンス」を参照してください。
+この情報は役に立ちましたか?
+はい
+いいえ
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+フィードバックをいただき、ありがとうございます。
+×
+最新情報
+Surface Laptop Ultra
+Surface Pro
+Surface Laptop
+Copilot を詳しく見る
+Windows での AI
+Microsoft 製品を見る
+Windows 11 アプリ
+Microsoft Store
+アカウント プロファイル
+ダウンロード センター
+Microsoft Store サポート
+返品・返金
+ご注文履歴
+Microsoft Store のお約束
+教育
+Microsoft Education
+教育機関向けデバイス
+Microsoft Teams for Education
+Microsoft 365 Education
+Office Education
+教育者向けトレーニングおよび開発
+学生および保護者向けキャンペーン
+学生向け Azure
+ビジネス
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft Advertising
+Microsoft Copilot
+Microsoft Teams
+開発者 & IT
+Microsoft 開発者
+Microsoft Learn
+AI マーケットプレース アプリのサポート
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+ソフトウェア会社
+Visual Studio
+会社
+採用情報
+会社のニュース
+マイクロソフトにおけるプライバシー
+投資家
+アクセシビリティ
+日本語 (日本)
+プライバシーに関する選択のオプトアウト アイコン
+プライバシーに関する選択
+コンシューマーの正常性のプライバシー
+Microsoft に問い合わせ
+プライバシー
+特定商取引法に基づく表示
+Cookie の管理
+使用条件
+商標
+広告について
+© Microsoft 2026
